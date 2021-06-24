@@ -3,5 +3,5 @@ gateway:
   ip: 192.168.123.111
 token:
   expiration_time: 86400000
-  secret: user_token
+  secret: '{cipher}AQA/kMsOCjoRbAUCNurvcYKaGkv5FdR2/LunShAAQFy8xYUvyF62+2hxnK6us39gbJQKyEYZv6/yKba/Vd4LKT2A2kuW49iK9LcbxFDXUMcW9EMyPkLouhUwBxqOLB9VHEaxIehtzAgeXOOsPXO64Hmaj/N99BdV1+oQqMbpo9YhHfA6vhYALvpiHb/GJvNihfyHJn443j0GlGscG/uIv4s2crWvthPWniSnVEGrtvqmEm7tP08lHVMBSB2GAUt0KXRXw5tu13f3KfiJfW/1TKieZjBCp7ikSqu2GwaFnWstNGyQQUEZgBkh7FGqMHf5UFCKyL6DPsf4Psn1wRPw5c5lSJnUYHG+5ZXLT1bp0rlUEti/DWtf/2xpBxP+Yz+UYeHDFY3ljH9/rtXS9swlqZqg'
 
