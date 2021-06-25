@@ -22,4 +22,4 @@ order_service:
     orders_is_empty: There is no item.
 
 test:
-  text: 'first-test'
+  text: 'first-test2'
